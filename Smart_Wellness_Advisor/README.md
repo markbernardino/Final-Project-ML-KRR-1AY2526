@@ -1,4 +1,4 @@
-# Smart Wellness Advisor (Full Working System)
+# Smart Wellness Advisor
 
 Hybrid Machine Learning + Knowledge Representation & Reasoning system.
 This repository contains a full working example, ready for local run or GitHub.
