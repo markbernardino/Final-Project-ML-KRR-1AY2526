@@ -9,6 +9,7 @@ This repository contains a full working example, ready for local run or GitHub.
 - models/: trained model and encoders
 - notebooks/: Colab notebook
 - documentation/: PDFs and guides
+- video/: Video Presentation
 - ui/: optional static templates
 
 ## Quick start (local)
